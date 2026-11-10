@@ -8,15 +8,15 @@
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhialfar&label=Profile%20views&color=0e75b6&style=flat" alt="rawhialfar" /> </p>
-I'm a passionate Software Engineering Student from Jordan 🇯🇴 living in Canada 🇨🇦, currently studying at the University of Guelph.
+I'm a passionate Software/QA Engineer from Jordan 🇯🇴 living in Canada 🇨🇦, I graduated from the University of Guelph.
 
 # About Me
-* 😀 I'm a 5th-year **Software Engineer Student** nearing the end of my Bachelor's degree at the University of Guelph
-* 💻 I'm currently learning Flutter
+* 😀 I'm a QA/Software Engineer as well as a University of Guelph Alumni
+* 💻 I'm currently learning Selenium/Automation
 * 📈 Contributed to various projects, including client-facing web apps and mobile platforms, and led testing and development initiatives
-* 💼 Former Software Development Intern at Fill It Forward and Quality Engineer at TD
+* 💼 Former Software Development Intern at Fill It Forward and Quality Engineer at TD, currerntly working as a Junior Analyst at Miipe
 * ❤️ I love working with React and JavaScript, and building engaging front-end and full-stack applications!
-* 🤔 I'm currently seeking **new grad/intern** opportunities for **Summer 2025**!
+* 🤔 I'm always looking to learn and meet new people!
 * 📫 Feel Free to **contact** me/connect with me through **LinkedIn** or **email** at any time!
 
 # Languages and Tools
